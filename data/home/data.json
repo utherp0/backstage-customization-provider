@@ -17,7 +17,7 @@
         "iconUrl": "/homepage/icons/icons8/openshift.png",
         "label": "OpenShift",
         "url": ""
-      }
+      },
       {
         "iconUrl": "/homepage/icons/quay.svg",
         "label": "Red Hat Quay",
@@ -104,12 +104,12 @@
         "iconUrl": "/homepage/icons/icons8/openshift.png",
         "label": "OpenShift",
         "url": ""
-      }
+      },
       {
         "iconUrl": "/homepage/icons/icons8/system-task.png",
         "label": "Grafana",
         "url": ""
-      }
+      },
       {
         "iconUrl": "/homepage/icons/icons8/security-checked.png",
         "label": "GitHub Security",
