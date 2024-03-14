@@ -4,7 +4,7 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": /homepage/icons/podman_logo.svg",
+        "iconUrl": "/homepage/icons/podman_logo.svg",
         "label": "Podman Desktop",
         "url": "https://podman-desktop.io"
       },
@@ -24,6 +24,7 @@
         "url": "https://quay.io/"
       }
     ]
+  },
   {
     "title": "OPEN SOURCE DEVELOPER TOOLING",
     "isExpanded": false,
