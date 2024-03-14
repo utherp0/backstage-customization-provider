@@ -14,6 +14,16 @@
         "url": ""
       },
       {
+        "iconUrl": "/homepage/icons/icon8/developerhub.png",
+        "label": "Developer Hub",
+        "url": ""
+      },
+      {
+        "iconUrl": "/homepage/icons/icons8/devspaces.png",
+        "label": "Red Hat DevSpaces",
+        "url": ""
+      },
+      {
         "iconUrl": "/homepage/icons/icons8/openshift.png",
         "label": "OpenShift",
         "url": ""
