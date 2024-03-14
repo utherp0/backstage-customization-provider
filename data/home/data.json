@@ -1,6 +1,31 @@
 [
   {
-    "title": "COMMUNITY",
+    "title": "RED HAT DEVELOPER TOOLING",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": /homepage/icons/podman_logo.svg",
+        "label": "Podman Desktop",
+        "url": "https://podman-desktop.io"
+      },
+      {
+        "iconUrl": "/homepage/icons/argo-icon-color.svg",
+        "label": "OpenShift GitOps",
+        "url": ""
+      },
+      {
+        "iconUrl": "/homepage/icons/icons8/openshift.png",
+        "label": "OpenShift",
+        "url": ""
+      }
+      {
+        "iconUrl": "/homepage/icons/quay.svg",
+        "label": "Red Hat Quay",
+        "url": "https://quay.io/"
+      }
+    ]
+  {
+    "title": "OPEN SOURCE DEVELOPER TOOLING",
     "isExpanded": false,
     "links": [
       {
@@ -41,17 +66,6 @@
     ]
   },
   {
-    "title": "DEVELOPER TOOLS",
-    "isExpanded": true,
-    "links": [
-      {
-        "iconUrl": "/homepage/icons/podman_logo.svg",
-        "label": "Podman Desktop",
-        "url": "https://podman-desktop.io"
-      }
-    ]
-  },
-  {
     "title": "CI/CD TOOLS",
     "isExpanded": true,
     "links": [
@@ -84,18 +98,18 @@
     ]
   },
   {
-    "title": "MONITORING TOOLS",
+    "ititle": "PLATFORM ENGINEER TOOLS",
     "links": [
+      {
+        "iconUrl": "/homepage/icons/icons8/openshift.png",
+        "label": "OpenShift",
+        "url": ""
+      }
       {
         "iconUrl": "/homepage/icons/icons8/system-task.png",
         "label": "Grafana",
         "url": ""
       }
-    ]
-  },
-  {
-    "title": "SECURITY TOOLS",
-    "links": [
       {
         "iconUrl": "/homepage/icons/icons8/security-checked.png",
         "label": "GitHub Security",
